@@ -1,2 +1,2 @@
 # Edgebook
-Slack for stock research
+Chat-style stock research journal
